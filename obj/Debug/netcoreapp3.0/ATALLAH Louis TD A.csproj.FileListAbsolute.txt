@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.exe
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.deps.json
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.runtimeconfig.json
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.runtimeconfig.dev.json
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.dll
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\bin\Debug\netcoreapp3.0\ATALLAH Louis TD A.pdb
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\obj\Debug\netcoreapp3.0\ATALLAH Louis TD A.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\obj\Debug\netcoreapp3.0\ATALLAH Louis TD A.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\obj\Debug\netcoreapp3.0\ATALLAH Louis TD A.AssemblyInfo.cs
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\obj\Debug\netcoreapp3.0\ATALLAH Louis TD A.dll
+C:\Users\pc\Desktop\ESILV A3\POO\ATALLAH Louis TD A\obj\Debug\netcoreapp3.0\ATALLAH Louis TD A.pdb
